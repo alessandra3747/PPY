@@ -3,7 +3,6 @@
 
 Whether you're tracking lesson outcomes, noting student progress, or preparing for evaluations, InsightEd provides a structured and intuitive environment to support your teaching journey. </br> 
 
-</br></br>
 Features:
 </br>
 📝 Add, update, and delete student profiles
